@@ -1,0 +1,46 @@
+wellcome to Blood Donars Association...
+A volunteer unprofittable programme
+
+
+About:  The Simple Blood Donor Management System aids in the management of all blood donor information. 
+This will also serve as a hub for sharing best practices for reducing unnecessary blood consumption and 
+assisting the state in improving blood supply efficiency and sufficiency. Simple Blood Donor Management 
+System is developed using SQL where you can add new donor, update donor Information, find donor 
+based on their location and delete the donor.
+Objective: The primary goal of this system's development is to deliver blood to those who are in need of it. 
+Every day, the number of people in need of blood rises dramatically. The user can use this system to look up 
+blood groups in the city and acquire the phone number of a donor who has the blood group he requires.
+Features:   The CRUD (Create, Read, Update, and Delete) operation is used to create this simple system. 
+It has the following features:
+
+Create a new registry
+⦁	Update a donor
+⦁	Find a donor
+⦁	Delete a donor
+⦁	Members add
+⦁	Manage Request
+⦁	and so on
+
+
+New registry:
+With this module, admins can register people who want to donate blood by providing basic information such as 
+their first and last names, age, gender, blood group, location, phone number, and email address.
+
+Update Donor:
+If a donor's information is incorrect, the administrator can change or modify it. They can quickly alter this 
+information by selecting the edit option next to the donor.
+
+Find Donor:
+This module allows the user to look for a donor based on their location. Then they'll find out who the donor is 
+if they're in the same area. If there is no match, the message “No results found” will appear.
+
+Delete Donor:
+ If a donor no longer wishes to provide blood or is ill, the administrator can easily remove their information 
+from the system.
+Installing Instructions:
+Prerequisite:
+If you're planning to run this project locally, you'll need to install a server (like XAMPP, WAMPP, or something similar).
+Database Connection:
+
+Launching Application:   This will take you to our system's Dashboard. All of the above functions are now available 
+to the administrator, who can easily manage the blood donors. we are hopefully that any user can use it easily .
